@@ -18,7 +18,7 @@ Installation not required
 
 Contact Info
 
-==========
+=======
 Name: Alejandro D.
 Email: alejandrodgonzalez923@gmail.com
 ===============
